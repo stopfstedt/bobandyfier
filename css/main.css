@@ -1,0 +1,133 @@
+/* TheIronThrone */
+
+img[src="/img/cards/01183.png"] {
+    content: url("https://i.imgur.com/KBT5Elu.png");
+}
+img[src="/img/cards/19015.png"] {
+    content: url("https://i.imgur.com/pzQnPYC.png");
+}
+img[src="/img/cards/01191.png"] {
+    content: url("https://i.imgur.com/6Eyw8pd.png");
+}
+img[src="/img/cards/09001.png"] {
+    content: url("https://i.imgur.com/fb9X3Xf.png");
+}
+img[src="/img/cards/17136.png"] {
+    content: url("https://i.imgur.com/dNq4l1q.png");
+}
+img[src="/img/cards/08103.png"] {
+    content: url("https://i.imgur.com/6OqkKsc.png");
+}
+img[src="/img/cards/09021.png"] {
+    content: url("https://i.imgur.com/2xU2fv8.png");
+}
+img[src="/img/cards/01188.png"] {
+    content: url("https://i.imgur.com/cAAI29d.png");
+}
+img[src="/img/cards/09046.png"] {
+    content: url("https://i.imgur.com/b5vQHg8.png");
+}
+img[src="/img/cards/02084.png"] {
+    content: url("https://i.imgur.com/JEOVqWM.png");
+}
+img[src="/img/cards/01195.png"] {
+    content: url("https://i.imgur.com/fWaus5z.png");
+}
+img[src="/img/cards/01179.png"] {
+    content: url("https://i.imgur.com/uZPCyho.png");
+}
+img[src="/img/cards/01184.png"] {
+    content: url("https://i.imgur.com/Lnkgv1b.png");
+}
+img[src="/img/cards/tyrell.png"] {
+    content: url("https://i.imgur.com/F80zIkR.png");
+}
+
+.bg-board {
+    background-image: url("https://i.imgur.com/2RTtskr.png") !important;
+}
+
+/* ThronesDB */
+
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_183.jpg"] {
+    content: url("https://i.imgur.com/KBT5Elu.png");
+}
+img[src="https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/15_Randyll_Tarly_ENG.png"] {
+    content: url("https://i.imgur.com/pzQnPYC.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_191.jpg"] {
+    content: url("https://i.imgur.com/6Eyw8pd.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT29_1.jpg"] {
+    content: url("https://i.imgur.com/fb9X3Xf.png");
+}
+img[src="https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT29_1.jpg"] {
+    content: url("https://i.imgur.com/dNq4l1q.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT28_103.jpg"] {
+    content: url("https://i.imgur.com/6OqkKsc.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT29_21.jpg"] {
+    content: url("https://i.imgur.com/2xU2fv8.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_188.jpg"] {
+    content: url("https://i.imgur.com/cAAI29d.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT29_46.jpg"] {
+    content: url("https://i.imgur.com/b5vQHg8.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT06_84.jpg"] {
+    content: url("https://i.imgur.com/JEOVqWM.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_195.jpg"] {
+    content: url("https://i.imgur.com/fWaus5z.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_179.jpg"] {
+    content: url("https://i.imgur.com/uZPCyho.png");
+}
+img[src="https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_184.jpg"] {
+    content: url("https://i.imgur.com/Lnkgv1b.png");
+}
+img[src="/images/factions/tyrell.png"] {
+    content: url("https://i.imgur.com/F80zIkR.png");
+}
+
+.card-thumbnail[data-code="01183"] {
+    background-image: url("https://i.imgur.com/KBT5Elu.png") !important;
+}
+.card-thumbnail[data-code="19015"] {
+    background-image: url("https://i.imgur.com/pzQnPYC.png") !important;
+}
+.card-thumbnail[data-code="01191"] {
+    background-image: url("https://i.imgur.com/6Eyw8pd.png") !important;
+}
+.card-thumbnail[data-code="09001"] {
+    background-image: url("https://i.imgur.com/fb9X3Xf.png") !important;
+}
+.card-thumbnail[data-code="17136"] {
+    background-image: url("https://i.imgur.com/dNq4l1q.png") !important;
+}
+.card-thumbnail[data-code="08103"] {
+    background-image: url("https://i.imgur.com/6OqkKsc.png") !important;
+}
+.card-thumbnail[data-code="09021"] {
+    background-image: url("https://i.imgur.com/2xU2fv8.png") !important;
+}
+.card-thumbnail[data-code="01188"] {
+    background-image: url("https://i.imgur.com/cAAI29d.png") !important;
+}
+.card-thumbnail[data-code="09046"] {
+    background-image: url("https://i.imgur.com/b5vQHg8.png") !important;
+}
+.card-thumbnail[data-code="02084"] {
+    background-image: url("https://i.imgur.com/JEOVqWM.png") !important;
+}
+.card-thumbnail[data-code="01195"] {
+    background-image: url("https://i.imgur.com/fWaus5z.png") !important;
+}
+.card-thumbnail[data-code="01179"] {
+    background-image: url("https://i.imgur.com/uZPCyho.png") !important;
+}
+.card-thumbnail[data-code="01184"] {
+    background-image: url("https://i.imgur.com/Lnkgv1b.png") !important;
+}

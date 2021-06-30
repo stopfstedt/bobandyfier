@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Bobandyfier",
+    "version": "0.0.5",
+    "description": "Bobandyfies ThronesDB and TheIronThrone.",
+    "content_scripts": [
+        {
+          "matches": [
+              "https://thronesdb.com/*",
+              "https://theironthrone.net/*",
+              "https://www.theironthrone.net/*",
+              "http://ec2-18-192-99-102.eu-central-1.compute.amazonaws.com:4000/*"
+            ], 
+          "css": ["css/main.css"]
+        }
+    ]
+}
